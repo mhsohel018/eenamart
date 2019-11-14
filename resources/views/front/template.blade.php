@@ -32,7 +32,7 @@
 
                     </nav>
                     <div class=logo>
-                        <a href=index-2.html><img src=images/logo.png height=164 width=164 alt=""></a>
+                        <a href=index-2.html><img src={{URL::to('front_asset/images/logo2.png')}} height=164 width=164 alt=""></a>
                     </div>
                     <div class=header-top-right-v1>
                         <a class="toggle-share-alt fa fa-share-alt" href=#></a>
