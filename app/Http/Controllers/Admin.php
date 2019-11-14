@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\Homepage;
 use Session;
 class Admin extends Controller
 {
@@ -17,8 +18,9 @@ class Admin extends Controller
     }
     public function banner()
     {
+        $data=Homepage::first();
         Session::put('menu', 'home');
-        return view('admin.index');
+        return view('admin.banner',compact('data'));
     }
     public function about()
     {
