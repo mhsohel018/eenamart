@@ -80,7 +80,7 @@ public function latest()
 public function featured()
 {
     Session::put('menu', 'home');
-    return view('admin.index');
+    return view('admin.featured');
 }
 public function others()
 {
