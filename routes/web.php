@@ -15,6 +15,8 @@ Route::get('lang/{locale}', 'FrontController@lang');
 Route::get('/product/{id}', 'FrontController@product');
 
 Route::get('/admin/banner', 'Admin@banner');
+Route::post('/admin/banner_update', 'Admin@banner_update');
+Route::post('/admin/about_update', 'Admin@about_update');
 Route::get('/admin/about', 'Admin@about');
 Route::get('/admin/service', 'Admin@service');
 Route::get('/admin/middle', 'Admin@middle');

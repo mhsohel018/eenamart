@@ -23,13 +23,13 @@
               <div class="col-md-12" style="color: #79a0e0">
                 <h3>Banner</h3>
               </div>
-              {{ Form::open(array('url' => '/features_update','files'=>true)) }}
+              {{ Form::open(array('url' => '/admin/banner_update','files'=>true)) }}
 {!! Form::hidden('id',$data->id)!!}
               <table class="table table-bordered table-striped" border="1">
                 <tr>
                   <th>Banner Photo</th>
                   <td>
-                    <input type="file" name="banner">
+                    <input type="file" name="banner" class="form-control">
                   </td>
                 </tr>
                 <tr>
@@ -43,6 +43,9 @@
                   <td>
                     <textarea class="form-control" name="welcome_msg_ch">{{$data->welcome_msg_ch}}</textarea>
                   </td>
+                </tr>
+                <tr>
+                  <td colspan="2"><input type="submit" class="btn btn-block btn-primary" value="Update"></td>
                 </tr>
               </table>
               {{ Form::close() }}
