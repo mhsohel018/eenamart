@@ -16,6 +16,10 @@ class CategoryController extends Controller
     {
         $this->middleware('auth');
     }
+    public function category($id=NULL)
+    {
+        # code...
+    }
     public function index()
     {
         //
