@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Category;
 use Illuminate\Http\Request;
-
+use Session;
 class CategoryController extends Controller
 {
     /**
@@ -15,14 +15,16 @@ class CategoryController extends Controller
     public function __construct()
     {
         $this->middleware('auth');
+        
     }
     public function category($id=NULL)
     {
-        # code...
+        Session::put('menu', 'products');
+        return view('admin.index');
     }
     public function index()
     {
-        //
+        return view('admin.index');
     }
 
     /**

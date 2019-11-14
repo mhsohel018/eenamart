@@ -143,7 +143,7 @@
                     Others</a></li>
                   </ul>
                 </li>
-                <li class="treeview @if(Session::get('menu')=='home') active @endif">
+                <li class="treeview @if(Session::get('menu')=='products') active @endif">
                 <a href="#">
                   <i class="fa fa-clone"></i> <span>Products</span>
                   <span class="pull-right-container">
