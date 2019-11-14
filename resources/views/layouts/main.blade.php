@@ -143,6 +143,18 @@
                     Others</a></li>
                   </ul>
                 </li>
+                <li class="treeview @if(Session::get('menu')=='home') active @endif">
+                <a href="#">
+                  <i class="fa fa-clone"></i> <span>Products</span>
+                  <span class="pull-right-container">
+                    <i class="fa fa-angle-left pull-right"></i>
+                  </span>
+                </a>
+                <ul class="treeview-menu">
+                  <li class="active"><a href="{{ URL::to('/admin/category') }}"><i class="fa fa-list-alt"></i>
+                    Category </a></li>
+                  </ul>
+                </li>
                 <li class="treeview ">
                 <a href="#">
                   <i class="fa fa-clone"></i> <span>Admin</span>
