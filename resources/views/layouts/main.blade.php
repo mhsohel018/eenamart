@@ -153,6 +153,8 @@
                 <ul class="treeview-menu">
                   <li class="active"><a href="{{ URL::to('/admin/category') }}"><i class="fa fa-list-alt"></i>
                     Category </a></li>
+                    <li class="active"><a href="{{ URL::to('/admin/sub_category') }}"><i class="fa fa-list-alt"></i>
+                    Sub-Category </a></li>
                   </ul>
                 </li>
                 <li class="treeview ">

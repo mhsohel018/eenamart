@@ -13,8 +13,12 @@
 
 Route::get('lang/{locale}', 'FrontController@lang');
 Route::get('/product/{id}', 'FrontController@product');
+Route::get('/admin/sub_category/{id}', 'CategoryController@sub_category');
+Route::get('/admin/delete_sub_category/{id}', 'CategoryController@delete_sub_category');
 
 Route::get('/admin/category', 'CategoryController@category');
+Route::get('/admin/sub_category', 'CategoryController@sub_category');
+Route::post('/admin/store_sub_category', 'CategoryController@store_sub_category');
 
 Route::get('/admin/banner', 'Admin@banner');
 Route::post('/admin/banner_update', 'Admin@banner_update');
