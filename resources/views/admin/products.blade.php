@@ -121,7 +121,7 @@
       
     </tr>
     <tr>
-      <th>Photo</th>
+      <th>Photo<br> <small>(735*413)</small></th>
       <td>
         <input type="file" name="photo" class="form-control">
       </td>

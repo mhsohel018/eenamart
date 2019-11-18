@@ -55,7 +55,7 @@
             </tr>
 
              <tr>
-              <th>Source Photo</th>
+              <th>Source Photo<br> <small>(600*502)</small></th>
               <td colspan="5">
                 <input type="file" name="photo" class="form-control"  />
               </td>

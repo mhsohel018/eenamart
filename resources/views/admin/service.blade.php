@@ -27,41 +27,41 @@
           {!! Form::hidden('id',$data->id)!!}
           <table class="table table-bordered table-striped" border="1">
             <tr>
-              <th>Service One Photo [EN]</th>
+              <th>Service One Photo [EN]<br> <small>(270*546)</small></th>
               <td>
                 <input type="file" name="service_one_en" class="form-control">
               </td>
-              <th>Service One Photo [CH]</th>
+              <th>Service One Photo [CH]<br> <small>(270*546)</small></th>
               <td>
                 <input type="file" name="service_one_ch" class="form-control">
               </td>
             </tr>
             <tr>
-              <th>Service Two Photo [EN]</th>
+              <th>Service Two Photo [EN]<br> <small>(270*546)</small></th>
               <td>
                 <input type="file" name="service_two_en" class="form-control">
               </td>
-              <th>Service Two Photo [CH]</th>
+              <th>Service Two Photo [CH]<br> <small>(270*546)</small></th>
               <td>
                 <input type="file" name="service_two_ch" class="form-control">
               </td>
             </tr>
             <tr>
-              <th>Service Three Photo [EN]</th>
+              <th>Service Three Photo [EN<br> <small>(270*546)</small>th>
               <td>
                 <input type="file" name="service_three_en" class="form-control">
               </td>
-              <th>Service Three Photo [CH]</th>
+              <th>Service Three Photo [CH]<br> <small>(270*546)</small></th>
               <td>
                 <input type="file" name="service_three_ch" class="form-control">
               </td>
             </tr>
             <tr>
-              <th>Service Four Photo [EN]</th>
+              <th>Service Four Photo [EN]<br> <small>(270*546)</small></th>
               <td>
                 <input type="file" name="service_four_en" class="form-control">
               </td>
-              <th>Service Four Photo [CH]</th>
+              <th>Service Four Photo [CH]<br> <small>(270*546)</small></th>
               <td>
                 <input type="file" name="service_four_ch" class="form-control">
               </td>

@@ -83,7 +83,7 @@
                   </td>
                 </tr>
                 <tr>
-                  <th>Logo</th>
+                  <th>Logo<br> <small>(1440*810)</small></th>
                   <td>
                     <input type="file" name="logo" class="form-control">
                   </td>

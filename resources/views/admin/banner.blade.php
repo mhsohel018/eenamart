@@ -27,7 +27,7 @@
 {!! Form::hidden('id',$data->id)!!}
               <table class="table table-bordered table-striped" border="1">
                 <tr>
-                  <th>Banner Photo</th>
+                  <th>Banner Photo <br> <small>(1920*1098)</small></th>
                   <td>
                     <input type="file" name="banner" class="form-control">
                   </td>

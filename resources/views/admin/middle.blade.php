@@ -40,7 +40,7 @@
               </td>
             </tr>
             <tr>
-              <th>Middle Photo </th>
+              <th>Middle Photo<br> <small>(559*693)</small> </th>
               <td>
                 <input type="file" name="middle_part_photo" class="form-control">
               </td>

@@ -27,7 +27,7 @@
           {!! Form::hidden('id',$data->id)!!}
           <table class="table table-bordered table-striped" border="1">
             <tr>
-              <th>Photo</th>
+              <th>Photo<br> <small>(601*634)</small></th>
               <td>
                 <input type="file" name="photo" class="form-control">
               </td>

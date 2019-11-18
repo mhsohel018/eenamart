@@ -27,11 +27,11 @@
           {!! Form::hidden('id',$data->id)!!}
           <table class="table table-bordered table-striped" border="1">
             <tr>
-              <th>About Photo [EN]</th>
+              <th>About Photo [EN] <br> <small>(370*453)</small></th>
               <td>
                 <input type="file" name="about_msg_photo_en" class="form-control">
               </td>
-              <th>About Photo [CH]</th>
+              <th>About Photo [CH]<br> <small>(370*453)</small></th>
               <td>
                 <input type="file" name="about_msg_photo_ch" class="form-control">
               </td>

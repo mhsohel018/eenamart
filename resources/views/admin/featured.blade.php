@@ -27,25 +27,25 @@
           {!! Form::hidden('id',$data->id)!!}
           <table class="table table-bordered table-striped" border="1">
             <tr>
-              <th>featured_one Photo</th>
+              <th>featured_one Photo<br> <small>(669*721)</small></th>
               <td>
                 <input type="file" name="featured_one_photo" class="form-control">
               </td>
-              <th>featured_two Photo</th>
+              <th>featured_two Photo<br> <small>(470*343)</small></th>
               <td>
                 <input type="file" name="featured_two_photo" class="form-control">
               </td>
-               <th>featured_three Photo</th>
+               <th>featured_three Photo<br> <small>(470*343)</small></th>
               <td>
                 <input type="file" name="featured_three_photo" class="form-control">
               </td>
             </tr>
             <tr>
-              <th>fMessage [EN]</th>
+              <th>Featured Message [EN]</th>
               <td colspan="2">
                 <textarea class="form-control" name="featured_msg_en">{{$data->featured_msg_en}}</textarea>
               </td>
-              <th>fMessage [CH]</th>
+              <th>Fetured Message [CH]</th>
               <td colspan="2">
                 <textarea class="form-control" name="featured_msg_ch">{{$data->featured_msg_ch}}</textarea>
               </td>
