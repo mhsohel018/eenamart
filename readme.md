@@ -63,7 +63,7 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 
 ## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+This is a joint of some newbie developer of IsDB-BISEW IT SCHOLARSHIP PROJECT, BITL/ROUND-40. They are- Md. Azam Ali (www.github.com/azamali512), Shohel(www.github.com/), Abdur Rahaman(www.github.com/), Md. Saruar(www.github.com/), Abdul Wadud(www.github.com/), Sharfuddin(www.github.com/), and Raihan Amin(www.github.com/). This project is solely supervised by Morshed Habib (Sohel) (www.github.com/).
 
 ## Security Vulnerabilities
 
