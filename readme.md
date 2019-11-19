@@ -9,7 +9,7 @@
 
 ## About Project
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+This project is built to serve chinese people staying in Dhaka who are searching for quality product. This product is built with laravel 6.0. There are two languages (Chinese & English) for accessing this website both in front and back end using laravel localization. This project also serves the purpose of on page SEO and email marketing.
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
