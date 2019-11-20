@@ -10,14 +10,14 @@
 ## About Project
 
 This project is built to serve chinese people staying in Dhaka who are searching for quality product. This product is built with laravel 6.0. There are two languages (Chinese & English) for accessing this website both in front and back end using laravel localization. This project also serves the purpose of on page SEO and email marketing. PHP/laravel technologies used in this project are-
--> Model-View-Controller(MVC) system
--> laravel localization
--> laravel templating and layout
--> laravel routing
--> laravel authentication
--> fully dynamic and responsive
--> database insert, update, delete in both language
--> laravel session
+1. Model-View-Controller(MVC) system
+2. laravel localization
+3. laravel templating and layout
+4. laravel routing
+5. laravel authentication
+6. fully dynamic and responsive
+7. database insert, update, delete in both language
+8. laravel session
 
 
 ## Contributing
@@ -31,7 +31,7 @@ This is a joint of some newbie developer of IsDB-BISEW IT SCHOLARSHIP PROJECT, B
 6. Sharfuddin(www.github.com/sharifsharfuddin) and 
 7. Raihan(www.github.com/raihaann). 
 
-This project is solely supervised by Morshed Habib (Sohel) (www.github.com/mhsohel018).
+This project is solely supervised by Morshed Habib (www.github.com/mhsohel018).
 
 
 
