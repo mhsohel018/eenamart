@@ -23,9 +23,9 @@ This project is built to serve chinese people staying in Dhaka who are searching
 ## Contributing
 
 This is a joint of some newbie developer of IsDB-BISEW IT SCHOLARSHIP PROJECT, BITL/ROUND-40. They are- 
-1. Md. Azam Ali (www.github.com/azamali512), 
+1. Azam Ali (www.github.com/azamali512), 
 2. Sohel Rana (www.github.com/sohelbd), 
-3. Abdur Rahaman(www.github.com/mdjoy01720), 
+3. Abdur Rahim(www.github.com/mdjoy01720), 
 4. Md. Saruar(www.github.com/saruar123), 
 5. Abdul Wadud(www.github.com/freelancerwadud), 
 6. Sharfuddin(www.github.com/sharifsharfuddin) and 
