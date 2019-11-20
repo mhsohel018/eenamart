@@ -37,4 +37,4 @@ This project is solely supervised by Morshed Habib (www.github.com/mhsohel018).
 
 ## License
 
-The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Copyright © 2018 PRANTIK-SOFT. All rights reserved [PRANTIK-SOFT](https://prantiksoft.com).
