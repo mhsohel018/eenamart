@@ -18,6 +18,7 @@ This project is built to serve chinese people staying in Dhaka who are searching
 6. fully dynamic and responsive
 7. database insert, update, delete in both language
 8. laravel session
+9. On page SEO
 
 
 ## Contributing
