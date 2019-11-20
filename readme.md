@@ -12,9 +12,9 @@
 This project is built to serve chinese people staying in Dhaka who are searching for quality product. This product is built with laravel 6.0. There are two languages (Chinese & English) for accessing this website both in front and back end using laravel localization. This project also serves the purpose of on page SEO and email marketing. PHP/laravel technologies used in this project are-
 1. Model-View-Controller(MVC) system
 2. laravel localization
-3. laravel templating and layout
+3. laravel blade templating and layout
 4. laravel routing
-5. laravel authentication
+5. laravel OAuth2
 6. fully dynamic and responsive
 7. database insert, update, delete in both language
 8. laravel session
