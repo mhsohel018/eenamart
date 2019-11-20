@@ -37,4 +37,4 @@ This project is solely supervised by Morshed Habib (www.github.com/mhsohel018).
 
 ## License
 
-Copyright © 2018 PRANTIK-SOFT. All rights reserved [PRANTIK-SOFT](https://prantiksoft.com).
+Copyright © 2019 PRANTIK-SOFT. All rights reserved [PRANTIK-SOFT](https://prantiksoft.com).
